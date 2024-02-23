@@ -3,3 +3,5 @@ Particle filtering is a reliable Monte Carlo algorithm for estimating the state 
 The paper has been published in IEEE Access.
 **https://ieeexplore.ieee.org/document/10418505**
 
+
+![Top-level drawio](https://github.com/OmerTariq-KAIST/2D-Particle-Filter-Accelerator/assets/55257143/f1086fda-a8ad-4198-8eb8-799b3c9944c6)
